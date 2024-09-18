@@ -1,0 +1,7 @@
+{
+  "name": "ac1Lpi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
